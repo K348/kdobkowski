@@ -67,7 +67,7 @@ class RouterConfig extends Router
 		// KONIEC SZUKANIA
 
 		if(isset($correct_addresses[0]))
-			echo $correct_addresses[0];
+			return $correct_addresses[0];
 		else
 			return false;
 	}
