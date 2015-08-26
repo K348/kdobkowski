@@ -1,5 +1,5 @@
 <?php
-abstract class Routera
+abstract class Router
 {
 	protected $uri = array();
 
