@@ -1,3 +1,3 @@
 <?php
- echo "web.config is working";
+ echo "web.config is workingg";
 ?>
