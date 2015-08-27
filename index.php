@@ -1,3 +1,3 @@
 <?php
- echo "juz dziala XD";
+ print_r($_SERVER);
 ?>
